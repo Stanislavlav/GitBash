@@ -10,6 +10,7 @@ cat name - просмотр файла
 vim name -- текстовый редактор
 nano name -- текстовый редактор попроще
 cat >> name -- записать в файл в терминале
+echo 'Blablabla' >> filename -- добавляет строку в файл
 cd .. -- выйти на папку выше
 mv name namefolder -- переместить файл в папку
 mv namefile_old namefile_new -- переименовать файл
